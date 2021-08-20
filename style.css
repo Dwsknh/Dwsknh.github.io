@@ -1,0 +1,19 @@
+#content p, h4, li {
+    margin: 0 200px 0 200px;
+}
+
+#content table {
+    border: 1px solid black;
+    margin:auto;
+}
+
+th {
+    border: 1px solid brown;
+    padding: 0 56px;
+}
+
+td {
+    border: 1px solid brown;
+    padding: 0 56px;
+
+}
